@@ -1,0 +1,2 @@
+C:\Projects\Giphy.API\Giphy.API\obj\Debug\Giphy.API.csprojAssemblyReference.cache
+C:\Projects\Giphy.API\Giphy.API\obj\Debug\Giphy.API.csproj.CoreCompileInputs.cache
